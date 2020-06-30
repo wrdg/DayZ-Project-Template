@@ -1,0 +1,34 @@
+# Unwanted directories
+.[Kk]ey/
+[Tt]emp/
+
+# Bohemia Interactive keys
+*.biprivatekey
+*.bikey
+
+# Windows executables
+*.exe
+*.dll
+*.lnk
+
+# File archives
+*.rar
+*.zip
+*.7z
+*.pbo
+
+# Raw images
+*.png
+*.jpg
+*.jpeg
+*.tga
+
+# Raw models
+*.fbx
+*.obj
+
+# Log/Dumps
+*.log
+*.ADM
+*.RPT
+*.mdmp
